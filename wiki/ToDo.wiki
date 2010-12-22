@@ -1,9 +1,13 @@
 #labels Phase-Support
 = ToDo =
 
+== Common ==
+1. Open files list<br>
+2. Open files Dump<br>
+3. 64bit(IA-32) Virtual Address to Physical Address Module<br>
+
 == volafox ==
 1. Process Dump<br>
-2. Develop Intel 64bits Architecture VAtoPA Module<br>
 3. 64bit mach-o file format analysis module.<br>
 
 === Bug ===
@@ -11,5 +15,4 @@
 
 == volafunx ==
 ~~1. Process Dump~~<br>
-2. 64bit VAtoPA<br>
 3. basic information (OS Version, Mount information, etc)
