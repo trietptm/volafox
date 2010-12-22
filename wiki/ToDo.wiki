@@ -10,6 +10,6 @@
 1. hooking Detection bug: kernel don't have 'fsgetpath' symbol information, so volafox missmatch this.
 
 == volafunx ==
-1. Process Dump<br>
-2. 64bit VAtoPA
+~~1. Process Dump~~<br>
+2. 64bit VAtoPA<br>
 3. basic information (OS Version, Mount information, etc)
