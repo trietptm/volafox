@@ -10,7 +10,7 @@
 1. Process Dump<br>
 3. 64bit mach-o file format analysis module.<br>
 
-=== Bug ===
+*Bug*
 1. hooking Detection bug: kernel don't have 'fsgetpath' symbol information, so volafox missmatch this.
 
 == volafunx ==
