@@ -9,9 +9,9 @@
 
 
 == volafox ==
-1. Process Dump<br>
-2. 64bit mach-o file format analysis module.<br>
-3. network status<br>
+~~1. Process Dump~~<br>
+~~2. 64bit mach-o file format analysis module.~~<br>
+~~3. network status~~<br>
 
 *Bug*
 1. hooking Detection bug: kernel don't have 'fsgetpath' symbol information, so volafox missmatch it.
