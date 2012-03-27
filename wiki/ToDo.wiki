@@ -2,7 +2,7 @@
 = ToDo =
 
 == Common ==
-1. Open files list<br>
+~~1. Open files list~~<br>
 2. Open files Dump<br>
 ~~3. 64bit(IA-32e PML4) Virtual Address to Physical Address Module~~<br>
 4. Process/KLD/Network Status Carving<br>
